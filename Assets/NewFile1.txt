@@ -1,0 +1,872 @@
+ Null
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+	 TimeUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 WaitForLastPresentationAndUpdateTime
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+	 Initialization
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ProfilerStartFrame
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 UpdateCameraMotionVectors
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 DirectorSampleTime
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 AsyncUploadTimeSlicedUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 SynchronizeInputs
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 SynchronizeState
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 XREarlyUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+	 EarlyUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 PollPlayerConnection
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 GpuTimestamp
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 AnalyticsCoreStatsUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 UnityWebRequestUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ExecuteMainThreadJobs
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ProcessMouseInWindow
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ClearIntermediateRenderers
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ClearLines
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 PresentBeforeUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ResetFrameStatsAfterPresent
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 UpdateAsyncReadbackManager
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 UpdateStreamingManager
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 UpdateTextureStreamingManager
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 UpdatePreloading
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 RendererNotifyInvisible
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 PlayerCleanupCachedData
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 UpdateMainGameViewRect
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 UpdateCanvasRectTransform
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 XRUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 UpdateInputManager
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ProcessRemoteInput
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ScriptRunDelayedStartupFrame
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 UpdateKinect
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 DeliverIosPlatformEvents
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ARCoreUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 DispatchEventQueueEvents
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 PhysicsResetInterpolatedTransformPosition
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 SpriteAtlasManagerUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 PerformanceAnalyticsUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+	 FixedUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ClearLines
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 NewInputFixedUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 DirectorFixedSampleTime
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 AudioFixedUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ScriptRunBehaviourFixedUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 DirectorFixedUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 LegacyFixedAnimationUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 XRFixedUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 PhysicsFixedUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 Physics2DFixedUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 PhysicsClothFixedUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 DirectorFixedUpdatePostPhysics
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ScriptRunDelayedFixedFrameRate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+	 PreUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 PhysicsUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 Physics2DUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 CheckTexFieldInput
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 IMGUISendQueuedEvents
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 NewInputUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 SendMouseEvents
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 AIUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 WindUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 UpdateVideo
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+	 Update
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ScriptRunBehaviourUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ScriptRunDelayedDynamicFrameRate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ScriptRunDelayedTasks
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 DirectorUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+	 PreLateUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 AIUpdatePostScript
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 DirectorUpdateAnimationBegin
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 LegacyAnimationUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 DirectorUpdateAnimationEnd
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 DirectorDeferredEvaluate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 UIElementsUpdatePanels
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 EndGraphicsJobsAfterScriptUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ConstraintManagerUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ParticleSystemBeginUpdateAll
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 Physics2DLateUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ScriptRunBehaviourLateUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+	 PostLateUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 PlayerSendFrameStarted
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 DirectorLateUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ScriptRunDelayedDynamicFrameRate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 PhysicsSkinnedClothBeginUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 UpdateRectTransform
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 PlayerUpdateCanvases
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 UpdateAudio
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 VFXUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ParticleSystemEndUpdateAll
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 EndGraphicsJobsAfterScriptLateUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 UpdateCustomRenderTextures
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 XRPostLateUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 UpdateAllRenderers
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 UpdateLightProbeProxyVolumes
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 EnlightenRuntimeUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 UpdateAllSkinnedMeshes
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ProcessWebSendMessages
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 SortingGroupsUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 UpdateVideoTextures
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 UpdateVideo
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 DirectorRenderImage
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 PlayerEmitCanvasGeometry
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 PhysicsSkinnedClothFinishUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 FinishFrameRendering
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 BatchModeUpdate
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 PlayerSendFrameComplete
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 UpdateCaptureScreenshot
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 PresentAfterDraw
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ClearImmediateRenderers
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 PlayerSendFramePostPresent
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 UpdateResolution
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 InputEndFrame
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 TriggerEndOfFrameCallbacks
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 GUIClearEvents
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ShaderHandleErrors
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ResetInputAxis
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ThreadedLoadingDebug
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ProfilerSynchronizeStats
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 MemoryFrameMaintenance
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ExecuteGameCenterCallbacks
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 XRPreEndFrame
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 ProfilerEndFrame
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
+		 GraphicsWarmupPreloadedShaders
+UnityEngine.Debug:Log (object)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:59)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:LogPlayerLoopSystem (UnityEngine.LowLevel.PlayerLoopSystem,string) (at Assets/PlayerLoopManager.cs:64)
+PlayerLoopManager:Start () (at Assets/PlayerLoopManager.cs:54)
+
