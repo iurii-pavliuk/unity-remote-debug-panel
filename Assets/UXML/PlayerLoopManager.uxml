@@ -1,7 +1,0 @@
-<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
-    <ui:VisualElement />
-    <uie:PropertyField binding-path="systems" label="Systems" />
-    <uie:PropertyField binding-path="year" label="Year" />
-    <uie:PropertyField binding-path="firstName" label="First name" />
-    <ui:Label text="Hello world!" display-tooltip-when-elided="true" />
-</ui:UXML>
