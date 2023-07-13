@@ -37,7 +37,7 @@ namespace Editor
             {
                 windowItem.OnRender();
             }
-
+            
             // _messageToSend = EditorGUILayout.TextField("Message to send:", _messageToSend);
             //
             // if (GUILayout.Button("Send Message"))

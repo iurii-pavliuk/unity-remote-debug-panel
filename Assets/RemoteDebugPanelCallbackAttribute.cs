@@ -8,24 +8,34 @@ using UnityEngine;
 [AttributeUsage(AttributeTargets.Method)]
 public class RemoteDebugPanelCallbackAttribute : System.Attribute
 {
-    public RemoteDebugPanelCallbackAttribute(string someString)
+    public RemoteDebugPanelCallbackAttribute(string info, RemoteDebugPanelItemUIType uiType)
     {
-        this.SomeString = someString;
+        this.Info = info;
+        this.UIType = uiType;
     }
 
-    public string SomeString { get; set; }
+    public string Info { get; set; }
+    public RemoteDebugPanelItemUIType UIType { get; set; }
+}
+
+[Flags]
+public enum RemoteDebugPanelItemUIType
+{
+    InputField = 0x0,
+    Checkbox = 0x1,
 }
 
 public class RemoteDebugPanelCallbacks
 {
-    [RemoteDebugPanelCallback("Set target framerate")]
-    public void SetTargetFramerate(int fps)
+    [RemoteDebugPanelCallback("Set target framerate", RemoteDebugPanelItemUIType.InputField)]
+    public static void SetTargetFramerate(int fps)
     {
         Application.targetFrameRate = fps;
+        Debug.Log($"Set frame: {fps}");
     }
     
-    [RemoteDebugPanelCallback("Enable/disable Unity subsystem")]
-    public void EnableSubsystem(string name, bool isEnabled)
+    [RemoteDebugPanelCallback("Enable/disable Unity subsystem", RemoteDebugPanelItemUIType.Checkbox | RemoteDebugPanelItemUIType.InputField)]
+    public static void EnableSubsystem(string name, bool isEnabled)
     {
         Debug.Log($"EnableSubsystem: {name}, {isEnabled}");
     }
@@ -43,29 +53,78 @@ public class RemoteDebugPanelCallbacks
             {
                 if (methodInfo.GetCustomAttribute(attributeType) is RemoteDebugPanelCallbackAttribute attribute)
                 {
-                    Debug.Log($"Method: {methodInfo.Name}, attribute: {attribute.SomeString}");
+                    Debug.Log($"Method: {methodInfo.Name}, attribute: {attribute.Info}");
 
                     var className = methodInfo.Name + "Trigger";
-                    var st = new StringBuilder();
-                    st.AppendLine("using UnityEditor;");
-                    st.AppendLine("using UnityEngine;");
-                    st.AppendLine("namespace Editor {");
-                    st.AppendLine($"public class {className} : IRemoteDebugPanelWindowItem " + " {");
-                    st.AppendLine('\t' + $"[InitializeOnLoadMethod] private static void OnDomainReload() {{ RemoteDebugPanelWindow.Items.Add(new {className}()); }}");
-                    st.AppendLine('\t' + $"public void OnRender() {{");
-                    st.AppendLine('\t' + $"if (GUILayout.Button(\"{className}\")) {{Debug.Log(\"Hello from {methodInfo.Name} \");}}");
-                    st.AppendLine('\t' + "}");
-                    st.AppendLine("}");
-                    st.AppendLine("}");
-                    
+                    var methodName = $"{type.FullName}.{methodInfo.Name}" ;
+                    var code = attribute.UIType switch
+                    {
+                        RemoteDebugPanelItemUIType.InputField => ItemsUITemplate.ItemWithInputField(className,
+                            methodName, attribute.Info),
+                        RemoteDebugPanelItemUIType.Checkbox | RemoteDebugPanelItemUIType.InputField => ItemsUITemplate
+                            .ItemWithCheckboxAndInputField(className, methodName, attribute.Info),
+                        _ => throw new ArgumentOutOfRangeException()
+                    };
+
                     // save st to a text file
                     var path = Application.dataPath + "/Editor/" + className + ".cs";
-                    File.WriteAllText(path, st.ToString());
+                    File.WriteAllText(path, code);
                 }
             }
         }
         
         EditorUtility.RequestScriptReload();
+    }
+}
+
+public abstract class ItemsUITemplate
+{
+    public static string ItemWithInputField(string className, string methodName, string attributeInfo)
+    {
+        var st = new StringBuilder();
+        st.AppendLine("using UnityEditor;");
+        st.AppendLine("using UnityEngine;");
+        st.AppendLine("namespace Editor {");
+        st.AppendLine($"public class {className} : IRemoteDebugPanelWindowItem " + " {");
+        st.AppendLine($"private string _input = \"\";");
+        st.AppendLine('\t' + $"[InitializeOnLoadMethod] private static void OnDomainReload() {{ RemoteDebugPanelWindow.Items.Add(new {className}()); }}");
+        st.AppendLine('\t' + $"public void OnRender() {{");
+        st.AppendLine('\t' + $"\t" + $"GUILayout.Label(\"{attributeInfo}\");");
+        st.AppendLine('\t' + $"_input = GUILayout.TextField(_input);");
+        st.AppendLine('\t' + $"if (GUILayout.Button(\"{attributeInfo}\")) {{" +
+                      $"Debug.Log(\"Hello from {methodName} \");" +
+                      $"{methodName}(int.Parse(_input));" +
+                      $"}}");
+        st.AppendLine('\t' + "}");
+        st.AppendLine("}");
+        st.AppendLine("}");
+        
+        return st.ToString();
+    }
+    
+    public static string ItemWithCheckboxAndInputField(string className, string methodName, string attributeInfo)
+    {
+        var st = new StringBuilder();
+        st.AppendLine("using UnityEditor;");
+        st.AppendLine("using UnityEngine;");
+        st.AppendLine("namespace Editor {");
+        st.AppendLine($"public class {className} : IRemoteDebugPanelWindowItem " + " {");
+        st.AppendLine($"private string _input = \"\";");
+        st.AppendLine($"private bool _checkbox = false;");
+        st.AppendLine('\t' + $"[InitializeOnLoadMethod] private static void OnDomainReload() {{ RemoteDebugPanelWindow.Items.Add(new {className}()); }}");
+        st.AppendLine('\t' + $"public void OnRender() {{");
+        st.AppendLine('\t' + $"\t" + $"GUILayout.Label(\"{attributeInfo}\");");
+        st.AppendLine('\t' + $"_input = GUILayout.TextField(_input);");
+        st.AppendLine('\t' + $"_checkbox = GUILayout.Toggle(_checkbox, \"Checkbox\");");
+        st.AppendLine('\t' + $"if (GUILayout.Button(\"{attributeInfo}\")) {{" +
+                      $"Debug.Log(\"Hello from {methodName} \");" +
+                      $"{methodName}(_input, _checkbox);" +
+                      $"}}");
+        st.AppendLine('\t' + "}");
+        st.AppendLine("}");
+        st.AppendLine("}");
+        
+        return st.ToString();
     }
 }
 
