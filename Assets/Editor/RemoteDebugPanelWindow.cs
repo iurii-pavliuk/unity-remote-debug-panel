@@ -12,7 +12,7 @@ namespace Editor
     {
         public static List<IRemoteDebugPanelWindowItem> Items = new List<IRemoteDebugPanelWindowItem>();
         
-        private EditorConnection _editorConnection;
+        private static EditorConnection _editorConnection;
         private string _messageToSend = "";
         private bool _checkboxValue;
 
@@ -39,15 +39,19 @@ namespace Editor
             {
                 windowItem.OnRender();
             }
+            
+            return;
 
-            // _messageToSend = EditorGUILayout.TextField("Message to send:", _messageToSend);
-            //
-            // if (GUILayout.Button("Send Message"))
-            // {
-            //     SendMessageToPlayer(_messageToSend);
-            // }
-            //
-            // _checkboxValue = EditorGUILayout.Toggle("Custom Checkbox", _checkboxValue);
+            _messageToSend = EditorGUILayout.TextField("Message to send:", _messageToSend);
+            
+            if (GUILayout.Button("Send Message"))
+            {
+                SendMessageToPlayer(_messageToSend);
+            }
+
+            return;
+            
+            _checkboxValue = EditorGUILayout.Toggle("Custom Checkbox", _checkboxValue);
             
             if(GUILayout.Button("Open"))
             {
@@ -63,7 +67,7 @@ namespace Editor
             }
         }
 
-        private void SendMessageToPlayer(string message)
+        public static void SendMessageToPlayer(string message)
         {
             var messageData = System.Text.Encoding.ASCII.GetBytes(message);
             _editorConnection.Send(MessageTypes.MyCustomMessage, messageData);
