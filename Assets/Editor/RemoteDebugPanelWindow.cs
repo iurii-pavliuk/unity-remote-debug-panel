@@ -1,6 +1,8 @@
 using System.Collections.Generic;
+using System.IO;
 using UnityEditor;
 using UnityEditor.Networking.PlayerConnection;
+using UnityEditorInternal;
 using UnityEngine;
 using UnityEngine.Networking.PlayerConnection;
 
@@ -37,7 +39,7 @@ namespace Editor
             {
                 windowItem.OnRender();
             }
-            
+
             // _messageToSend = EditorGUILayout.TextField("Message to send:", _messageToSend);
             //
             // if (GUILayout.Button("Send Message"))
@@ -46,6 +48,19 @@ namespace Editor
             // }
             //
             // _checkboxValue = EditorGUILayout.Toggle("Custom Checkbox", _checkboxValue);
+            
+            if(GUILayout.Button("Open"))
+            {
+                var folder = Path.Combine(Application.dataPath, "../profiling");
+                var loaded = ProfilerDriver.LoadProfile(Path.Combine(folder, "test-capture-01.data"), true);
+                var m_ProfilerWindow = EditorWindow.GetWindow<ProfilerWindow>();
+                m_ProfilerWindow.Show();
+                var frame = ProfilerDriver.GetRawFrameDataView(1, 1);
+                Debug.Log($"{loaded}"
+                          // + $" {frame.frameTimeMs} {frame.frameFps}"
+                          );
+
+            }
         }
 
         private void SendMessageToPlayer(string message)
